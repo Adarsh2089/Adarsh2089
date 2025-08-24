@@ -4,7 +4,7 @@
 
 I'm a **Java Full Stack Developer** with a passion for building scalable web applications and impactful projects.  
 
-🌱 I’m currently learning **Cloud Computing & React.js**  
+🌱 I’m currently learning **Spring Boot & React.js**  
 💻 [Check out my portfolio](#)  
 
 ---
@@ -19,4 +19,6 @@ I'm a **Java Full Stack Developer** with a passion for building scalable web app
 
 ## Visitor Count  
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Adarsh2089&color=blue)  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Adarsh2089&color=blue" alt="Visitor Count" />
+</p>
