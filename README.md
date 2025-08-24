@@ -1,6 +1,6 @@
 # Hi there, I'm Adarsh Kumar 👋  
 
-<img align="right" alt="Java Coder" width="350" src="https://github.com/user-attachments/assets/df46e45b-c547-4d6c-a73d-6713564c1eed" />
+<img align="right" alt="Java Coder" width="300" src="https://github.com/user-attachments/assets/df46e45b-c547-4d6c-a73d-6713564c1eed" />
 
 I'm a **Java Full Stack Developer** with a passion for building scalable web applications and impactful projects.  
 
@@ -9,15 +9,11 @@ I'm a **Java Full Stack Developer** with a passion for building scalable web app
 
 ---
 
-## Adarsh Kumar's GitHub Stats  
+## 📊 GitHub Stats & Languages  
 
-![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adarsh2089&show_icons=true&theme=radical)
-
----
-
-## Most Used Languages  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh2089&layout=compact&theme=radical)  
+| GitHub Stats | Most Used Languages |
+|--------------|----------------------|
+| ![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adarsh2089&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh2089&layout=compact&theme=radical) |
 
 ---
 
