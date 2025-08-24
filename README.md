@@ -1,6 +1,6 @@
 # Hi there, I'm Adarsh Kumar 👋  
 
-<img align="right" alt="Java Coder" width="300" src="https://github.com/user-attachments/assets/df46e45b-c547-4d6c-a73d-6713564c1eed" />
+<img align="right" alt="Java Coder" width="400" src="https://github.com/user-attachments/assets/df46e45b-c547-4d6c-a73d-6713564c1eed" />
 
 I'm a **Java Full Stack Developer** with a passion for building scalable web applications and impactful projects.  
 
