@@ -1,17 +1,15 @@
 # Hi there, I'm Adarsh Kumar 👋  
 
+<img width="1536" height="1024" alt="img_coder" src="https://github.com/user-attachments/assets/df46e45b-c547-4d6c-a73d-6713564c1eed" />
+
 I'm a **Java Full Stack Developer** with a passion for building scalable web applications and impactful projects.  
 
 🌱 I’m currently learning **Cloud Computing & React.js**  
 💻 [Check out my portfolio](#)  
 
----
-
 ## Adarsh Kumar's GitHub Stats  
 
 ![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adarsh2089&show_icons=true&theme=radical)
-
----
 
 ## Most Used Languages  
 
